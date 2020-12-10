@@ -4,7 +4,7 @@
 
 - 🎓️ Currently, I’m a second-year Undergraduate at Informatics Institute of Technology (IIT).
 - 📚️ I like to learn as much as possible.
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡️ Willing to contribute more Open Source projects.
 
 ### Connect with me:
 
