@@ -1,19 +1,25 @@
-### Hello, I'm Dilshan Naveen 👋
+# Hello, I'm Dilshan Naveen 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/dilshannaveenme?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdilshannaveenme&screen_name=dilshannaveenme)
+### I'm a Self-Learned and Self Motivated Developer,
 
-## I'm a Self-Learned and Self Motivated Developer,
-
-- 🎓️ currently, I’m a second-year Undergraduate at Informatics Institute of Technology (IIT).
-- 🌱 I’m currently learning everything 🤣
+- 🎓️ Currently, I’m a second-year Undergraduate at Informatics Institute of Technology (IIT).
+- 📚️ I like to learn as much as possible.
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
 ### Connect with me:
+
+<a href="https://www.facebook.com/dilshan.naveen.5">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/dilshannaveenme/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+
+<a href="https://www.linkedin.com/in/dilshan-naveen-588200148/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 
 <br />
