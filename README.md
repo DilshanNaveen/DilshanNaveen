@@ -2,7 +2,7 @@
 
 ### I'm a Self-Learned and Self Motivated Developer,
 
-- 🎓️ Currently, I’m a second-year Undergraduate at Informatics Institute of Technology (IIT).
+- 🎓️ Currently, I’m a second-year Undergraduat Uiversity of Westminster (UOW).
 - 📚️ I like to learn as much as possible.
 - ⚡️ Likes to contribute to open source projects.
 
