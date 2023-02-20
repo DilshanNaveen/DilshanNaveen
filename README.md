@@ -25,6 +25,12 @@
 <br />
 <br />
 
+<div align="center">
+<a href="https://www.buymeacoffee.com/dilshannavb" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a></div>
+
+<br />
+<br />
+
 ## Watch my contribution graph being eaten by a snake 🐍
 
 ![snake gif](https://github.com/DilshanNaveen/DilshanNaveen/blob/output/github-snake-dark.svg)
