@@ -24,5 +24,6 @@
 
 <br />
 <br />
+## Watch my contribution graph being eaten by a snake 🐍
 
 ![snake gif](https://github.com/DilshanNaveen/DilshanNaveen/blob/output/github-snake-dark.svg)
