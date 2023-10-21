@@ -23,7 +23,7 @@ jobs:
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v2
 
-      - uses: Platane/snk@v2
+      - uses: Platane/snk@v3.0.0
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
