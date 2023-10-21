@@ -1,4 +1,4 @@
-# Hello, I'm Dilshan Naveen 👋
+x# Hello, I'm Dilshan Naveen 👋
 
 ### I'm a Self-Learned and Self Motivated Developer,
 
@@ -33,4 +33,4 @@
 
 ## Watch my contribution graph being eaten by a snake 🐍
 
-![snake gif](https://github.com/DilshanNaveen/DilshanNaveen/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/DilshanNaveen/DilshanNaveen/blob/output/github-contribution-grid-snake.svg)
